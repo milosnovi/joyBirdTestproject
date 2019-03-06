@@ -1,7 +1,11 @@
-@extends('layout.website')
+@extends('layouts.app')
 
 @section('content')
-
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
     @if ($errors->any())
         <div class="alert alert-danger">
             <ul>
@@ -25,7 +29,10 @@
         <h1>Result:</h1>
         <h2>{{ $result }}</h2>
     @endisset
-
-
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 @endsection
