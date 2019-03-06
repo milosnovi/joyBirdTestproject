@@ -2,7 +2,7 @@
 
 ## Installation
 
-git@github.com:milosnovi/joyBirdTestproject.git
+git clone git@github.com:milosnovi/joyBirdTestproject.git .
 
 
 ## Start local environment
