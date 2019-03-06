@@ -2,8 +2,8 @@
 
 ## Installation
 
+git@github.com:milosnovi/joyBirdTestproject.git
 
-Unzip attached file on your local environment.
 
 ## Start local environment
 
